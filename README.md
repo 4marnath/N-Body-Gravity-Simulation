@@ -1,0 +1,2 @@
+# N-Body-Gravity-Simulation
+This is a simple 2D simulation made in Python where you can spawn particles of both positive and negative masses and see how they interact due to their gravitational forces which are calculated using Newtonian Mechanics with the universal gravitational constant set to 0.01. This simulation has no collisions and so the particles would pass through each other if they come really close.
