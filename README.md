@@ -8,7 +8,7 @@ Since this is a 2D world, the force is inversely proportional to R instead of R^
 come too close, they won't collide but instead will pass through each other. Also keep in mind that spawning 
 too many particles may cause some serious CPU load.
 
-<img src = "https://user-images.githubusercontent.com/96186288/197460343-3d911317-49bc-4703-9273-8bac0b667a35.png" width = 1000)
+<img src = "https://user-images.githubusercontent.com/96186288/197460343-3d911317-49bc-4703-9273-8bac0b667a35.png" width = 1000>
 
 The directory contains an executable in the zip file and the python source folder.
 You need to have installed Python 3.9 or later along with Numpy and Pygame libraries to run the Python file.
