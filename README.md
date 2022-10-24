@@ -13,9 +13,5 @@ too many particles may cause some serious CPU load.
 The directory contains an executable in the zip file and the python source folder.
 You need to have installed Python 3.9 or later along with Numpy and Pygame libraries to run the Python file.
 
-This program is open for modifications but you should give proper credit if you're gonna upload or share it.
-
-Cheers!
-
 Here's a demo of this project:
 https://www.youtube.com/watch?v=7g-jVOLUh2o
