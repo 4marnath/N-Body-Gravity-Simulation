@@ -1,4 +1,4 @@
-# N-Body-Gravity-Simulation
+# N-Body Gravity Simulation
 
 This is a simple 2D simulation where you can spawn particles of both positive and negative energies and they'll interact with each other due to their gravitational forces. The calculation follows Newtonian mechanics with the value of the universal gravitational constant, G, set to 0.01. 
 
